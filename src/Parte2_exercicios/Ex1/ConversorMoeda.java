@@ -4,6 +4,6 @@ public class ConversorMoeda implements ConversaoFinanceira{
     public void converterDolarParaReal(double valorDolar){
         double cotacaoDolar = 5.29;
         double valorReal = valorDolar * cotacaoDolar;
-        System.out.println("O valor em real é R$" + valorReal);
+        System.out.printf("O valor em real é R$%.2f%n", valorReal);
     }
 }
