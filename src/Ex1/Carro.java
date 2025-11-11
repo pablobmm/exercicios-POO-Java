@@ -6,10 +6,10 @@ public class Carro {
     private double precoAno1;
     private double precoAno2;
     private double precoAno3;
-    private double qtde;
+    private int qtde;
     private double motor;
 
-    public void definirInfo(String modelo,String marca,double qtde,double motor){
+    public void definirInfo(String modelo,String marca,int qtde,double motor){
         this.modelo = modelo;
         this.marca = marca;
         this.qtde = qtde;
