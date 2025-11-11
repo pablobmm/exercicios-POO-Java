@@ -1,4 +1,4 @@
-package Parte2_exercicios.Ex1.Ex2;
+package Parte2_exercicios.Ex2;
 
 public interface CalculoGeometrico {
     public void calcularArea(double altura, double largura);

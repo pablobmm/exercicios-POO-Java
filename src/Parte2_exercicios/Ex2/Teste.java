@@ -1,4 +1,4 @@
-package Parte2_exercicios.Ex1.Ex2;
+package Parte2_exercicios.Ex2;
 
 public class Teste {
     public static void main(String[] args) {
